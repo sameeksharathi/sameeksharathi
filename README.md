@@ -22,11 +22,11 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameeksharathi&layout=compact&hide=html" alt="sameeksharathi"/>
 
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameeksharathi&show_icons=true" alt="sameeksharathi">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=sameeksharathi&show_icons=true" alt="sameeksharathi">
 <br>
 
 <p align="center">
-<a href="https://twitter.com/sameeksha__r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sameeksha__r" height="30" width="30" margin = "10"/></a>
+<a href="https://twitter.com/sameeksha__r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sameeksha__r" height="30" width="30" margin = "50"/></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sameeksha-rathi-7a0164141/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/sameeksha-rathi-7a0164141/" height="30" width="30" padding = "10"/></a>
 <a href="https://kaggle.com/sameeksharathi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="sameeksharathi" height="30" width="30" padding = "10"/></a>
 <a href="https://instagram.com/sameeksha.___" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sameeksha.___" height="30" width="30" padding = "10"/></a>
