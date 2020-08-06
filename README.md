@@ -17,7 +17,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameeksharathi&layout=compact&hide=html&&hide_border=true alt="sameeksharathi"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameeksharathi&layout=compact&hide=html&hide_border=true alt="sameeksharathi"/>
 <br />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sameeksharathi&show_icons=true&hide_border=true" alt="sameeksharathi"/>
 
