@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on **Machine Learning and NLP Projects**
+- 👯 I’m looking to collaborate on **Machine Learning and Deep Learning Projects**
 
 - 🤔 I’m looking for help with **learning anything new!**
 
