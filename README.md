@@ -68,20 +68,20 @@
 ### Languages and Tools:
 <img align="left" alt="GitHub" title="Github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<img align="left" alt="python" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" />
+<img align="left" alt="python" title="Python" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" />
 
-<img align="left" alt="java" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" />
+<img align="left" alt="java" title="Java" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" />
 
-<img align="left" alt="c" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" />
+<img align="left" alt="c" title="C" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" />
 
-<img align="left" alt="opencv" width="26px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" />
+<img align="left" alt="opencv" title="OpenCV" width="26px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" />
 
-<img align="left" alt="html5" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" />
+<img align="left" alt="html5" title="HTML5" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" />
 
-<img align="left" alt="css3" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" />
+<img align="left" alt="css3" title="CSS3" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" />
 
-<img align="left" alt="bootstrap" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" /> 
+<img align="left" alt="bootstrap" title="Bootstrap" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" /> 
 
-<img align="left" alt="oracle" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" /> 
+<img align="left" alt="oracle" title="Oracle" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" /> 
 <br /><br />
 
