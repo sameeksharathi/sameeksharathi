@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameeksharathi" alt="sameeksharathi" /> </p>
 <br />
-<p>I am an Undergraduate, always being curious about Data, willing to learn more about it 👩‍💻. 
+<p>I am an Undergraduate, always curious about Data, willing to learn more about it 👩‍💻. 
   <br>Besides programming, I enjoy travelling 🚀.
 </p>
 <br />
