@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, I'm Sameeksha Rathi 👋</h1>
 <h3 align="center">A passionate Machine Learning and Data Science Enthusiast from India.</h3>
 
+<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameeksharathi" alt="sameeksharathi" /> </p>
 
 #### 👩‍🎓 I am an Undergraduate, always curious about Data, willing to learn more about it 👩‍💻. <br /> Besides programming, I enjoy travelling 🚀.
