@@ -80,7 +80,7 @@
 
 <img align="left" alt="css3" title="CSS3" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" />
 
-<img align="left" alt="bootstrap" title="Bootstrap" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" /> 
+<img align="left" alt="bootstrap" title="Bootstrap4 & Bootstrap5" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" /> 
 
 <img align="left" alt="oracle" title="Oracle" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" /> 
 <br /><br />
