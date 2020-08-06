@@ -5,7 +5,7 @@
 <br />
 <p>Besides programming, I enjoy reading, cooking and travelling.</p>
 <br>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400px" />
+<img align="right" alt="GIF" src="https://media0.giphy.com/media/NPXkCN2FutVO1Nt4P9/200w.webp?cid=ecf05e47umi5j3druiuupaxekdze1ofrzy6duae1doqphv8r&rid=200w.webp" width="400px" />
 
 - 🌱 I’m currently learning **Machine Learning**
 
