@@ -33,7 +33,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameeksharathi&layout=compact&hide=html&hide_border=true,issues&theme=gruvbox" alt="sameeksharathi" />
 <br />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sameeksharathi&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&theme=gruvbox" alt="sameeksharathi" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sameeksharathi&show_icons=true&hide_border=true&count_private=false&hide=prs,issues&theme=gruvbox" alt="sameeksharathi" />
 <br />
 <br />
 <br />
