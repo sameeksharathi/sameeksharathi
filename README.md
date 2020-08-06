@@ -17,12 +17,12 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameeksharathi&layout=compact&hide=html" alt="sameeksharathi"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameeksharathi&layout=compact&hide=html&&hide_border=true alt="sameeksharathi"/>
 <br />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sameeksharathi&show_icons=true" alt="sameeksharathi">
----
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sameeksharathi&show_icons=true&hide_border=true" alt="sameeksharathi"/>
+
 <br />
-<img align="left" alt="sameeksha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sameeksharathi&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&theme=gruvbox">
+<img align="left" alt="sameeksha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sameeksharathi&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&theme=gruvbox" />
   
 <br />
 <hr>
