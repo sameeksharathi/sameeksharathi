@@ -2,8 +2,16 @@
 <h3 align="center">A passionate Machine Learning and Data Science Enthusiast from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameeksharathi" alt="sameeksharathi" /> </p>
+<br />
+<p>Besides programming, I enjoy reading, cooking and travelling.</p>
+<br>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400px" />
 
 - 🌱 I’m currently learning **Machine Learning**
+
+- 👯 I’m looking to collaborate on **Machine Learning and NLP Projects**
+
+- 🤔 I’m looking for help with **learning anything new!**
 
 - 🔭 I’m currently working on **improving my Skills**
 
@@ -20,7 +28,12 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameeksharathi&layout=compact&hide=html&hide_border=true,issues&theme=gruvbox" alt="sameeksharathi" />
 <br />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sameeksharathi&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&theme=gruvbox" alt="sameeksharathi" />
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <hr>
 
 ### Connect with me:
@@ -41,6 +54,7 @@
 <a href="https://medium.com/@rathisameeksha9" target="blank">
   <img align="left" alt="@rathisameeksha9 | Medium" title="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg">
 </a>
+<br />
 <br />
 
 ### Languages and Tools:
