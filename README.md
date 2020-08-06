@@ -2,7 +2,6 @@
 <h3 align="left">A passionate Machine Learning and Data Science Enthusiast from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameeksharathi" alt="sameeksharathi" /> </p>
-<br />
 
 #### 👩‍🎓 I am an Undergraduate, always curious about Data, willing to learn more about it 👩‍💻. <br /> Besides programming, I enjoy travelling 🚀.
 
@@ -24,9 +23,11 @@
 - ⚡ Fun fact **Chai over Coffee**
 
 <br>
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameeksharathi&layout=compact&hide=html&hide_border=true,issues&theme=gruvbox" alt="sameeksharathi" />
 <br />
