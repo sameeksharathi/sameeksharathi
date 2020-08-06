@@ -1,5 +1,5 @@
-<h1 align="left">Hi there, I'm Sameeksha Rathi 👋</h1>
-<h3 align="left">A passionate Machine Learning and Data Science Enthusiast from India.</h3>
+<h1 align="center">Hi there, I'm Sameeksha Rathi 👋</h1>
+<h3 align="center">A passionate Machine Learning and Data Science Enthusiast from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameeksharathi" alt="sameeksharathi" /> </p>
 
