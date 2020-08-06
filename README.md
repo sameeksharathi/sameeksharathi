@@ -5,7 +5,7 @@
 <br />
 
 #### I am an Undergraduate, always curious about Data, willing to learn more about it 👩‍💻. 
- <br>
+<br />
 #### Besides programming, I enjoy travelling 🚀.
 
 <br />
