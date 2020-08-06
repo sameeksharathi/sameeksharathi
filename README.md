@@ -26,7 +26,7 @@
 <br />
 
 
-### Connect with me:
+<h3> Connect with me: </h3>
 <a href="https://www.linkedin.com/in/sameeksha-rathi-7a0164141/" target="_blank">
   <img align="left" alt="sameeksha-rathi-7a0164141" | Linkedin" title="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"> 
 </a>                                                                                                                                     
