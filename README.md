@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **improving my Skills**
 
-- 💬 Ask me about **Python, Machine Learning, Web Development, Java**
+- 💬 Ask me about **anything you feel like!**
 
 - 📫 How to reach me **sameeksha.rathi_cs18@gla.ac.in**
 
@@ -19,7 +19,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameeksharathi&layout=compact&hide=html&hide_border=true,issues&theme=gruvbox" alt="sameeksharathi" />
 <br />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sameeksharathi&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&theme=gruvbox" alt="sameeksharathi">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sameeksharathi&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&theme=gruvbox" alt="sameeksharathi" />
 
 <hr>
 
@@ -41,7 +41,7 @@
 <a href="https://medium.com/@rathisameeksha9" target="blank">
   <img align="left" alt="@rathisameeksha9 | Medium" title="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg">
 </a>
-
+<br />
 
 ### Languages and Tools:
 <img align="left" alt="GitHub" title="Github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
