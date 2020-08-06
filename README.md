@@ -19,12 +19,10 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameeksharathi&layout=compact&hide=html&hide_border=true,issues&theme=gruvbox" alt="sameeksharathi" />
 <br />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sameeksharathi&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&theme=gruvbox" alt="sameeksharathi" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sameeksharathi&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&theme=gruvbox" alt="sameeksharathi">
 
-#
 <hr>
 
-#
 ### Connect with me:
 <a href="https://www.linkedin.com/in/sameeksha-rathi-7a0164141/" target="_blank">
   <img align="left" alt="sameeksha-rathi-7a0164141" | Linkedin" title="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"> 
@@ -44,7 +42,7 @@
   <img align="left" alt="@rathisameeksha9 | Medium" title="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg">
 </a>
 
-#
+
 ### Languages and Tools:
 <img align="left" alt="GitHub" title="Github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
