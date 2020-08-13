@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and its Applications, <br> Front-End Technologies and Competitive Programming**
 
-- 👯 I’m looking to collaborate on **ML and DL Projects**
+- 👯 I’m looking to collaborate on **Machine Learning, Deep Learning<br> and Full Stack Projects**
 
 - 🤔 I’m looking for help with **learning anything new!**
 
