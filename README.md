@@ -10,7 +10,7 @@
 <br />
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/p4NLw3I4U0idi/200.webp?cid=ecf05e47ut5pr45pj9m7x00dco0dgwmqq1so04zmjkqx6daz&rid=200.webp" width="400px" />
 
-- 🌱 I’m currently learning **Machine Learning and its <br>Applications, Front-End Technologies and<br> Competitive Programming**
+- 🌱 I’m currently learning **Web Technologies and <br> Competitive Programming**
 
 - 👯 I’m looking to collaborate on **Machine Learning,<br> Deep Learning and Full Stack Projects**
 
