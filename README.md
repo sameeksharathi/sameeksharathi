@@ -12,11 +12,9 @@
 
 - 🌱 I’m currently learning **Web Technologies and <br> Competitive Programming**
 
-- 👯 I’m looking to collaborate on **Machine Learning,<br> Deep Learning and Full Stack Projects**
+- 👯 I’m looking to collaborate on **Full Stack and<br> Machine Learning Projects**
 
 - 🤔 I’m looking for help with **learning anything new!**
-
-- 🔭 I’m currently working on **improving my Skills**
 
 - 💬 Ask me about **anything you feel like!**
 
