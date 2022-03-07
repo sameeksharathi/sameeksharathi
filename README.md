@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm Sameeksha Rathi 👋</h1>
-<h3 align="center">A passionate Machine Learning and Data Science Enthusiast from India.</h3>
+<h3 align="center">A passionate Frontend Developer from India.</h3>
 
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameeksharathi" alt="sameeksharathi" /> </p>
 
-#### 👩‍🎓 I am an Undergraduate, always curious about Data, willing to learn more about it 👩‍💻. <br /> Besides programming, I enjoy travelling 🚀.
+#### 👩‍🎓 I am an Undergraduate, always curious about full stack technologies, willing to learn more about it 👩‍💻. <br /> Besides programming, I enjoy travelling 🚀.
 
 <br />
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/p4NLw3I4U0idi/200.webp?cid=ecf05e47ut5pr45pj9m7x00dco0dgwmqq1so04zmjkqx6daz&rid=200.webp" width="400px" />
